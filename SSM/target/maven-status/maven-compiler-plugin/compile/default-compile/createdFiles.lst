@@ -1,0 +1,6 @@
+com\hnu\service\PersonService.class
+com\hnu\dao\PersonDao.class
+com\hnu\controller\PersonController.class
+com\hnu\service\PersonServiceImpl.class
+com\hnu\test\TestSSM.class
+com\hnu\domain\Person.class
